@@ -1,3 +1,3 @@
-# interview_dream_client
+# Interview_Dream_Client
 
-* 2번째 프로젝트 '면접봐드림' 클라이언트 소스 
+* 2번째 프로젝트 'Interview_Dream_Client' 소스
